@@ -1,4 +1,5 @@
 # Roadmap
+Phase 1 - tradingview connection
 1. ~~Sign into TradingView and solve the captcha~~
 * ~~Save the cookies in case restart of program~~
 2. ~~Start websocket connection to TradingView~~
@@ -14,6 +15,20 @@
 
 - they dont auto sign into acc
 - they dont give custom indicator values that are only available in your acc (private scripts)
+
+Phase 2-
+1. Connect to unusualwhales or cheddarflow
+2. Allow custom tracking / filters
+
+Phase 3
+1. Connect the tradiengview and unusualwhale microservice
+2. Alert if both are confluent
+
+Phase 4
+1. ThinkOrSwim microservice
+2. Auto purchase the option
+3. Highly configurable for the trades desired
+
 
 
 usage
