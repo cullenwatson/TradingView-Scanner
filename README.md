@@ -28,6 +28,7 @@ Phase 4
 1. ThinkOrSwim microservice
 2. Auto purchase the option
 3. Highly configurable for the trades desired
+4. set take profit / stop loss and monitor win rate
 
 
 
